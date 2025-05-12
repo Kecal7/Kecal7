@@ -10,6 +10,8 @@ I'm currently focused on learning Python and Quality Assurance skills as I work 
 
 📈 I'm always open to learning, collaboration, and feedback — feel free to connect!<br><br>
 
+🎓 In 2025, I'm focusing on mastering test automation frameworks, writing clean and maintainable Python code, and preparing for my first QA role in tech.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lukaskoupil) 
 
