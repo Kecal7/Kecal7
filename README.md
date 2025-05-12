@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile!<br>
 
-I'm currently focused on learning Python and Quality Assurance as I work toward a career switch into tech. I enjoy exploring how things work, solving problems, and building skills that matter.<br><br>
+I'm currently focused on learning Python and Quality Assurance skills as I work toward a career switch into tech. I enjoy exploring how things work, solving problems, and building skills that matter.<br><br>
 
 🛠️ Here you'll find small projects, learning exercises, and tools I'm experimenting with along the way.<br><br>
 
